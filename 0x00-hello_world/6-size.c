@@ -2,11 +2,10 @@
 
 /**
  * main - Entry point
- *
- * it is comiled and run on..
+ ** it is comiled and run on..
  *
  * Return: always 0 (success)
-*/
+ */
 
 int main(void)
 {
