@@ -4,8 +4,8 @@
  * swap_int - swaps the values of two integers
  *		using two input parameters
  *
- * 0a: input parameter 1
- * 0b: input parameter 2
+ * 0a: input parameter: 1
+ * 0b: input parameter: 2
  *
  * Return: Nothing
  */
