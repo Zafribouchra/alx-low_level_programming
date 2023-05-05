@@ -1,4 +1,4 @@
-#include "main.h"
+i#include "main.h"
 
 /**
  * _strcat - function that concatenates
@@ -14,13 +14,13 @@ char *_strcat(char *dest, char *src)
 {
 	int c, c2;
 
-	C = 0;
+	c = 0;
 	/*find the size of dest array*/
 	while (dest[c])
-		C++;
+		c++;
 
 	/* iterate through  each src value without the null byte*/
-	for (c2 = 0; src[c2] ; C2++)
+	for (c2 = 0; src[c2] ; c2++)
 		/* apend src[c2] to dest [c] while overwrithing the null bytre in dest*/
 		dest[c++] = src[c2];
 
